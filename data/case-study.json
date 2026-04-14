@@ -1,0 +1,12 @@
+{
+  "id": "c5619e0b-7904-48fd-9b3e-d8658e9d1fe6",
+  "title": "Agent Studio",
+  "subtitle": "Empowering teams to build AI agents without writing prompts",
+  "heroImageUrl": null,
+  "challenge": "Teams without AI experience struggle to build and configure AI agents. They need to understand prompt engineering, error handling, and conversation management - skills that take months to develop.",
+  "goal": "Create an intuitive platform that allows anyone to build production-ready AI agents by simply filling in forms, with built-in best practices for error management, turn management, and state management.",
+  "outcome": "A wizard-driven configuration platform that reduced agent creation time from weeks to hours, enabling product teams to independently iterate on AI features.",
+  "role": "Lead UX Designer",
+  "timeline": "3 months",
+  "teamSize": "5 people"
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "caseStudyId": "c5619e0b-7904-48fd-9b3e-d8658e9d1fe6",
+    "title": "Wizard patterns dramatically reduce errors",
+    "description": "By breaking the complex agent configuration into discrete steps, we reduced configuration errors by 73%. Users could focus on one decision at a time.",
+    "category": "Design Decision",
+    "id": "5049ac8a-a36a-42ea-a098-2258a3455351"
+  },
+  {
+    "caseStudyId": "c5619e0b-7904-48fd-9b3e-d8658e9d1fe6",
+    "title": "Hide complexity, not capability",
+    "description": "The best practice components handle sophisticated AI patterns behind the scenes. Users don't need to understand turn management - they just get agents that work correctly.",
+    "category": "Technical Learning",
+    "id": "ca35bdfe-61f5-4d9f-b974-a9e873572175"
+  },
+  {
+    "caseStudyId": "c5619e0b-7904-48fd-9b3e-d8658e9d1fe6",
+    "title": "Immediate feedback accelerates learning",
+    "description": "The integrated testing interface let users see their changes immediately. This tight feedback loop helped them understand cause and effect in agent behavior.",
+    "category": "User Research",
+    "id": "ce05c383-87f1-4e72-9e35-9e79e73da0bc"
+  }
+]

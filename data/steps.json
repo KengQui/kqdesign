@@ -1,0 +1,47 @@
+[
+  {
+    "caseStudyId": "c5619e0b-7904-48fd-9b3e-d8658e9d1fe6",
+    "stepNumber": 1,
+    "title": "Research & Discovery",
+    "description": "Conducted user interviews with 12 product managers and developers to understand pain points with existing AI tooling. Key finding: 80% of time was spent on prompt engineering rather than solving business problems.",
+    "imageUrl": null,
+    "imageCaption": null,
+    "id": "1b3fb074-7578-4ca4-9200-ebfdc2bcf78a"
+  },
+  {
+    "caseStudyId": "c5619e0b-7904-48fd-9b3e-d8658e9d1fe6",
+    "stepNumber": 2,
+    "title": "Wizard Flow Design",
+    "description": "Designed a 5-step wizard flow to guide users through agent configuration: Business Use Case → Description → Validation Rules → Guardrails → Review. Each step builds on the previous, reducing cognitive load.",
+    "imageUrl": null,
+    "imageCaption": null,
+    "id": "210393f9-938d-4ac1-a6fc-083f244f02ef"
+  },
+  {
+    "caseStudyId": "c5619e0b-7904-48fd-9b3e-d8658e9d1fe6",
+    "stepNumber": 3,
+    "title": "Best Practice Components",
+    "description": "Built reusable components for error management, turn management, and state management. These are invisible to users but ensure their agents handle edge cases gracefully - like when the AI gets confused or users send unexpected inputs.",
+    "imageUrl": null,
+    "imageCaption": null,
+    "id": "3946a330-7778-4f5b-9d32-3e3c2b365b64"
+  },
+  {
+    "caseStudyId": "c5619e0b-7904-48fd-9b3e-d8658e9d1fe6",
+    "stepNumber": 4,
+    "title": "Agent Testing Interface",
+    "description": "Created an integrated chat interface where users can immediately test their configured agents. Real-time feedback helps users iterate on their agent's behavior without leaving the platform.",
+    "imageUrl": null,
+    "imageCaption": null,
+    "id": "cc599125-7e93-4c35-bf0e-0f35d5070da0"
+  },
+  {
+    "caseStudyId": "c5619e0b-7904-48fd-9b3e-d8658e9d1fe6",
+    "stepNumber": 99,
+    "title": "Test Step for Persistence",
+    "description": "This step tests file persistence",
+    "imageUrl": "",
+    "imageCaption": "",
+    "id": "6ddd5aae-fd51-4a67-ae6e-1438ff11ae1d"
+  }
+]
